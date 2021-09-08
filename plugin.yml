@@ -1,0 +1,10 @@
+name: Healing command
+author: GovernedPie
+api: 3.0.0
+version: 1.0.0
+description: Simple healing command
+main: heal\main
+
+commands:
+  heal:
+    description: /heal | Heals your hearts
